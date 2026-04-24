@@ -8,7 +8,7 @@
     <thead class="table-dark">
         <tr>
             <th>#</th>
-            <th>Nama Lengkap</th>
+            <th>Nama saya</th>
             <th>Alamat</th>
             <th>No Telepon</th>
             <th width="160">Aksi</th>
