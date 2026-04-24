@@ -9,7 +9,7 @@
         <tr>
             <th>#</th>
             <th>Nama saya</th>
-            <th>Alamat</th>
+            <th>Alamat saya</th>
             <th>No Telepon</th>
             <th width="160">Aksi</th>
         </tr>
